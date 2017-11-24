@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 this is test m2
+=======
+this is test t3
+>>>>>>> test
