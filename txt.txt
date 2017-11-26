@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-this is test t4
-=======
-this is test t3 test
->>>>>>> test
+qthis is test t4
